@@ -1,0 +1,16 @@
+{
+    "id": "com.adobe.xd.labs.part5",
+    "name": "Labs Starter Plugin",
+    "host": {
+        "app": "XD",
+        "minVersion": "8.0"
+    },
+    "version": "0.0.1",
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Part5-File IO & Async Code",
+            "commandId": "myPluginCommand"
+        }
+    ]
+}

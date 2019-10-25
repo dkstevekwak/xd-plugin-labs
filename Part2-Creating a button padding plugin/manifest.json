@@ -1,0 +1,16 @@
+{
+    "id": "com.adobe.xd.labs.part2",
+    "name": "Labs Starter Plugin",
+    "host": {
+        "app": "XD",
+        "minVersion": "8.0"
+    },
+    "version": "0.0.1",
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Part2-Creating a button padding plugin",
+            "commandId": "myPluginCommand"
+        }
+    ]
+}
