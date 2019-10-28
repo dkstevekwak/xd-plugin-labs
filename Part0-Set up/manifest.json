@@ -1,0 +1,16 @@
+{
+    "id": "com.adobe.xd.labs",
+    "name": "Labs Starter Plugin",
+    "host": {
+        "app": "XD",
+        "minVersion": "8.0"
+    },
+    "version": "0.0.1",
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Part0-Set up",
+            "commandId": "myPluginCommand"
+        }
+    ]
+}
