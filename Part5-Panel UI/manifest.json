@@ -9,7 +9,6 @@
     "uiEntryPoints": [
         {
             "type": "panel",
-            "label": "Enlarge a Rectangle",
             "panelId": "enlargeRectangle"
         }
     ]
